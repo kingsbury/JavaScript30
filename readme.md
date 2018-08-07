@@ -1,4 +1,4 @@
-[Drum Kit](https://github.com/kingsbury/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit/INDEX.HTML)
+[Drum Kit](/JavaScript30/01 - JavaScript Drum Kit/INDEX.HTML)
 
 
 ![](https://javascript30.com/images/JS3-social-share.png)
