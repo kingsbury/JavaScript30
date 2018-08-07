@@ -1,3 +1,6 @@
+[Drum Kit](https://github.com/kingsbury/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
